@@ -1,0 +1,6 @@
+Redis:
+  Host: 'localhost'
+BackboneRedis:
+  Host: 'localhost'
+UUIDCache:
+  Backend: 'com.keremc.core.uuid.impl.RedisUUIDCache'

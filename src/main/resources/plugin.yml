@@ -1,0 +1,5 @@
+name: ${name}
+version: ${version}
+main: com.keremc.core.CorePlugin
+author: Kerem Celik
+load: startup
